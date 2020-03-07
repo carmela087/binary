@@ -1,0 +1,73 @@
+.background {
+    height:44%;
+    width:24%;
+    position: absolute;
+    background: linear-gradient(to bottom right, #ccff99 0%, #ff99cc 100%);
+    top:221px;
+    left: 10%;
+    border: 2px solid black;
+  }
+#d {
+
+    position: absolute;
+    left: 14%;
+    top: 15%;
+
+}
+#b {
+    position: absolute;
+    top: 35%;
+    left: 14%;
+}
+
+#o {
+    position: absolute;
+    top: 55%;
+    left: 14%;
+}
+
+#h {
+    position: absolute;
+    top: 75%;
+    left: 14%;
+}
+
+#d, #b, #o, #h {
+
+border-radius: 10px;
+width: 160px;
+height: 30px;
+
+}
+
+p {
+    position: absolute;
+    left: 66.5%;
+    top: 12%;
+}
+
+p1 {
+    position: absolute;
+    left: 66.5%;
+    top: 39%;
+}
+
+p2 {
+    position: absolute;
+    left: 66.5%;
+    top: 59%;
+}
+
+p3 {
+    position: absolute;
+    left: 66.5%;
+    top: 79%;
+}
+
+#button {
+    position: absolute;
+    width: 79px;
+    left: 73%;
+    top: 45%;
+    height: 34px;
+}
